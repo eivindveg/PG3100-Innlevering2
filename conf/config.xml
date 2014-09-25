@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <database>
+        <user>root</user>
+        <password></password>
+        <host>jdbc:mysql://localhost/</host>
+        <database>innlevering2</database>
+    </database>
+</configuration>
